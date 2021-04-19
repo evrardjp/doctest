@@ -3,7 +3,7 @@
 We welcome all changes to FuseML.
 Don't hesitate to send an issue or submit a PR to our documentation.
 
-## Introduction
+## MkDocs
 
 The documentation is generated using MkDocs. For full documentation on how to
 use MkDocs, please go to the [MkDocs website](https://www.mkdocs.org/)
